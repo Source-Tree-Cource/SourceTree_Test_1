@@ -1,0 +1,40 @@
+#########################
+# Unreal Generated Files#
+#########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+
+########################
+# VS Genertated Files #
+#######################
+*VC.db
+*.VC.opendb
+*.sln
+*.ini
+
+# Compiled Dynamic libraries
+
+
+*.so
+
+*.dylib
+
+*.dll
+
+
+# Executables
+
+
+*.exe
+
+*.out
+
+*.app
+
+*.ipa
+
+SourceTree_Test_1/.vs/SourceTree_Test_1/v15/Solution.VC.db-wal
