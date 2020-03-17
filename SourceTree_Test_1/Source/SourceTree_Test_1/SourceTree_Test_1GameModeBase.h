@@ -14,4 +14,8 @@ class SOURCETREE_TEST_1_API ASourceTree_Test_1GameModeBase : public AGameModeBas
 {
 	GENERATED_BODY()
 	
+public:
+
+	ASourceTree_Test_1GameModeBase();
+
 };

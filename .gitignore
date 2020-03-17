@@ -15,6 +15,9 @@
 *.VC.opendb
 *.sln
 *.ini
+*.ipch
+*.suo
+*.VC.db-shm
 
 # Compiled Dynamic libraries
 

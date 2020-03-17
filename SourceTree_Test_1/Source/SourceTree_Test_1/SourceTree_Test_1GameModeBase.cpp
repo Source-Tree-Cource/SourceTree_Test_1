@@ -3,3 +3,7 @@
 
 #include "SourceTree_Test_1GameModeBase.h"
 
+ASourceTree_Test_1GameModeBase::ASourceTree_Test_1GameModeBase()
+{
+
+}
