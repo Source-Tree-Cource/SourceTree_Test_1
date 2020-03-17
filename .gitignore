@@ -38,3 +38,5 @@
 *.ipa
 
 SourceTree_Test_1/.vs/SourceTree_Test_1/v15/Solution.VC.db-wal
+*.db-shm
+*.ipch
